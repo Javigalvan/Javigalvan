@@ -2,7 +2,7 @@
 
 - Estoy estudiando Desarrollo de Aplicaciones Web
 - Estoy aprendiendo: Java, HTML, SQL ...
-- Viviendo en: Málaga, Spain 🇪🇸
+- Viviendo en: Málaga, España 🇪🇸
 
 ## 🧰 Tecnologías que uso
 
