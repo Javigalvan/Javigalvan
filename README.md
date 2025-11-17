@@ -3,8 +3,8 @@
 - Estoy estudiando Desarrollo de Aplicaciones Web
 - Estoy aprendiendo: Java, HTML, SQL ...
 - Viviendo en: Málaga, España 🇪🇸
-<ul>
-<li><a target="_blank" href=""></a></li>
+<br>
+    
 - **Languages**:
     
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
