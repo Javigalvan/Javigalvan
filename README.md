@@ -35,14 +35,7 @@
   
 </p>
 
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href=""></a></li>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javigalvan&show_icons=true&theme=dark&title_color=953295&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="javigalvan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javigalvan&show_icons=true&theme=dark&title_color=953295&text_color=ffffff&hide_border=true&locale=en" alt="javigalvan" /></p>
-
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Javigalvan" alt="Javigalvan" /></a></p>
 
 
 
