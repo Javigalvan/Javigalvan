@@ -1,9 +1,23 @@
-## Hola, soy Javi
+## Hi, I'm Javi
 
-- Estoy estudiando Desarrollo de Aplicaciones Web
-- Estoy aprendiendo: Java, HTML, SQL ...
-- Viviendo en: Málaga, España 🇪🇸
-<br>
+💻 Web Developer in Training | 🎓 Web Application Development | 🇪🇸 Málaga, Spain
+
+I'm currently studying Web Application Development and building my path as a developer, learning both programming fundamentals and the tools needed to build real-world applications.
+
+I'm particularly interested in backend development, web applications, and continuously expanding my knowledge of programming and databases.
+
+## About Me
+🎓 Currently studying Web Application Development
+
+☕ Learning and developing with Java
+
+🌐 Working with HTML and web development
+
+🗄️ Learning SQL and databases
+
+🔧 Using Git and GitHub to improve my development workflow
+
+📚 Always learning and looking for new projects to put my skills into practice
     
 - **Languages**:
     
