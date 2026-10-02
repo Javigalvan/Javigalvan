@@ -50,6 +50,10 @@ I'm particularly interested in backend development, web applications, and contin
 </p>
 
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Javigalvan&show_icons=true&locale=en&layout=compact" alt="Javigalvan" /></p>
+
+
+
 
 
 
